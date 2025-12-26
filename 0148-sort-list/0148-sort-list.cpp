@@ -9,23 +9,57 @@
  * };
  */
 class Solution {
+
 public:
-    ListNode* sortList(ListNode* head) {
-      
-        vector<int> arr;
-        ListNode* temp  = head;
-        while(temp != NULL){
-            arr.push_back(temp->val);
-            temp = temp->next;
+    ListNode* getMiddle(ListNode* head){
+         ListNode* slow = head;
+        ListNode* fast = head->next;
+        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        sort(arr.begin(),arr.end());
-        temp = head;
-        int i = 0;
-        while(temp != NULL){
-            temp->val = arr[i];
-            i++;
-            temp = temp->next;
-        }
-        return head;
+        return slow;
     }
+    ListNode* mergeSort(ListNode* list1,ListNode* list2){
+        ListNode* dummy = new ListNode(-1);
+        ListNode* tail  = dummy;
+        while(list1 != NULL && list2 != NULL){
+            if(list1->val < list2->val){
+                tail->next = list1;
+                list1 = list1->next;
+            }
+            else{
+                tail->next = list2;
+                list2 = list2->next;
+            }
+            tail = tail->next;
+        }
+        if(list1 != NULL){
+            tail->next = list1;
+        }
+        else{
+            tail->next = list2;
+        }
+        return dummy->next;
+    }
+
+
+    ListNode* sortList(ListNode* head) {
+
+        if(head == NULL || head->next == NULL){
+            return head;
+        }
+        ListNode* mid = getMiddle(head);
+        ListNode* right = mid->next;
+        mid->next = NULL;
+        ListNode* left = head;
+
+        
+        left = sortList(left);
+        right = sortList(right);
+
+        return mergeSort(left,right);
+
+    }
+    
 };
