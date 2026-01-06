@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/MareeduManikanta123/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MareeduManikanta123/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/MareeduManikanta123/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/MareeduManikanta123/LeetCode/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MareeduManikanta123/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MareeduManikanta123/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/MareeduManikanta123/LeetCode/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/MareeduManikanta123/LeetCode/tree/master/0283-move-zeroes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MareeduManikanta123/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
