@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MareeduManikanta123/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3453-separate-squares-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3453-separate-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MareeduManikanta123/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MareeduManikanta123/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3453-separate-squares-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3453-separate-squares-i) |
 ## Matrix
 |  |
 | ------- |
