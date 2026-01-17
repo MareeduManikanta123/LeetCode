@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MareeduManikanta123/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MareeduManikanta123/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MareeduManikanta123/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/MareeduManikanta123/LeetCode/tree/master/0169-majority-element) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MareeduManikanta123/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MareeduManikanta123/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/MareeduManikanta123/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MareeduManikanta123/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MareeduManikanta123/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -93,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MareeduManikanta123/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/MareeduManikanta123/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/MareeduManikanta123/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MareeduManikanta123/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/MareeduManikanta123/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/MareeduManikanta123/LeetCode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3798-largest-even-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/3798-largest-even-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MareeduManikanta123/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
