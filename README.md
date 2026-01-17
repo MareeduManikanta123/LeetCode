@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MareeduManikanta123/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/MareeduManikanta123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MareeduManikanta123/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MareeduManikanta123/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/0136-single-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MareeduManikanta123/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/MareeduManikanta123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/MareeduManikanta123/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MareeduManikanta123/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MareeduManikanta123/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MareeduManikanta123/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
