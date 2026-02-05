@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MareeduManikanta123/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3379-transformed-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3453-separate-squares-i) |
 ## Bit Manipulation
 |  |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
