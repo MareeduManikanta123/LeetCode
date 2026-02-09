@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MareeduManikanta123/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/0136-single-number) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MareeduManikanta123/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/MareeduManikanta123/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/MareeduManikanta123/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MareeduManikanta123/LeetCode/tree/master/0067-add-binary) |
 | [3798-largest-even-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/3798-largest-even-number) |
 ## Counting
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MareeduManikanta123/LeetCode/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/3379-transformed-array) |
 ## Memoization
 |  |
