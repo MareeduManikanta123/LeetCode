@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MareeduManikanta123/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/0509-fibonacci-number) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MareeduManikanta123/LeetCode/tree/master/0067-add-binary) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3379-transformed-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/3379-transformed-array) |
 ## Memoization
 |  |
