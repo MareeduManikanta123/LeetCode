@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/MareeduManikanta123/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MareeduManikanta123/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MareeduManikanta123/LeetCode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/MareeduManikanta123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MareeduManikanta123/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MareeduManikanta123/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/MareeduManikanta123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MareeduManikanta123/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MareeduManikanta123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |
