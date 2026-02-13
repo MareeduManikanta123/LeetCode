@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MareeduManikanta123/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MareeduManikanta123/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/MareeduManikanta123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MareeduManikanta123/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
