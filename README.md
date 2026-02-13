@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MareeduManikanta123/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/MareeduManikanta123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [3713-longest-balanced-substring-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,11 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MareeduManikanta123/LeetCode/tree/master/0067-add-binary) |
+| [3713-longest-balanced-substring-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3798-largest-even-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/3798-largest-even-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MareeduManikanta123/LeetCode/tree/master/0169-majority-element) |
+| [3713-longest-balanced-substring-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
