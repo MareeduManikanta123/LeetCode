@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/0509-fibonacci-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/MareeduManikanta123/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [2600-k-items-with-the-maximum-sum](https://github.com/MareeduManikanta123/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
