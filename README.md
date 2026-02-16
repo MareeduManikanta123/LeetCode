@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/MareeduManikanta123/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/MareeduManikanta123/LeetCode/tree/master/0190-reverse-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MareeduManikanta123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/MareeduManikanta123/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MareeduManikanta123/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/MareeduManikanta123/LeetCode/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
