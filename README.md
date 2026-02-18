@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MareeduManikanta123/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/MareeduManikanta123/LeetCode/tree/master/0190-reverse-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/MareeduManikanta123/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
