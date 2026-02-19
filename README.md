@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MareeduManikanta123/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/MareeduManikanta123/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MareeduManikanta123/LeetCode/tree/master/0283-move-zeroes) |
+| [0696-count-binary-substrings](https://github.com/MareeduManikanta123/LeetCode/tree/master/0696-count-binary-substrings) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MareeduManikanta123/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MareeduManikanta123/LeetCode/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/MareeduManikanta123/LeetCode/tree/master/0696-count-binary-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/MareeduManikanta123/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3798-largest-even-number](https://github.com/MareeduManikanta123/LeetCode/tree/master/3798-largest-even-number) |
 ## Counting
